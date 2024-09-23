@@ -35,7 +35,7 @@ The Personalized Travel Itinerary Generator is a web application that creates cu
 
 1. Clone the repository:
    ```
-   git clone https://github.com/pranavkulkarni2905/travel-iternary
+   git clone https://github.com/pranavkulkarni2905/Atlan-Fellowship-Task.git
    cd travel-iternary
    ```
 
